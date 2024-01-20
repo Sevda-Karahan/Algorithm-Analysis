@@ -3,6 +3,7 @@ Bu ödevde verilen iki string içerisine şifre olarak yerleştirilmiş birden f
 1. Dışarıdan farklı uzunluklarda verilen iki adet string bilgisi okunacaktır.
 2. Verilen string’ler üzerinde ortak olan en uzun ifade(ler)in boyutu hesaplanacaktır.
 3. Aynı uzunluğa sahip tüm ifadeler ekrana yazdırılacaktır.
+
 2-	Problemin Çözümü:
 Problemin çözümü için dinamik programlama yaklaşımı kullanılarak iki farklı string arasındaki en uzun ortak alt dizileri bulan ve geriye doğru bir yol izleyerek olası tüm en uzun alt dizileri tespit eden bir çözüm oluşturulmuştur. 
 Kullanıcı Girişi: İlk olarak, iki farklı string kullanıcıdan alınıyor: X ve Y.
